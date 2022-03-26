@@ -1,2 +1,2 @@
 # VirtualLibrary
-This is TechKariyer iOS Developer Internship Project.
+This is the iOS Developer Internship Project of kariyer.net's TechKariyer internship program.
